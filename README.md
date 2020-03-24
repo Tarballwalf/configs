@@ -14,6 +14,6 @@ If you want you can use them I have no problem with that.
 
 If you have any question or if you want to contact me you can thru:
 (Please tell me from where you came so I can know.)
-Discord: Tarballlwalf#1986
-Telegram: @Tarballwalf
-Keybase: tarballwalf
+*Discord: Tarballlwalf#1986
+*Telegram: @Tarballwalf
+*Keybase: tarballwalf
