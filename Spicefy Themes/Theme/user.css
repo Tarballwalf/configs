@@ -13,7 +13,7 @@
 .card-image-content-wrapper,
 .Card:not(.Card--artist) .Card__image,
 .Card:not(.Card--artist) .Card__image-wrapper {
-	border-radius: 4px !important;
+	border-radius: 8px !important;
 	overflow: hidden !important
 }
 
@@ -178,7 +178,7 @@ Hide the song duration and elapsed text. I dont know where to put those so I jus
 /* Add round corner for Gerne and Mood cards */
 .gc-image-container,
 .gc-image {
-	border-radius: 4px !important;
+	border-radius: 8px !important;
 }
 
 /*
