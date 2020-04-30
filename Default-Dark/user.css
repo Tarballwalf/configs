@@ -1,0 +1,22 @@
+/*Thinner scrollbar*/
+::-webkit-scrollbar {
+	height: 6px !important;
+	width: 0px !important;
+	background-color: transparent;
+}
+
+/*Spice up search input background*/
+.SearchInput {
+	color: var(--modspotify_main_fg);
+}
+.SearchInput__input {
+	color: var(--modspotify_secondary_fg);
+	background-color: rgba(var(--modspotify_rgb_scrollbar_fg_and_selected_row_bg), 0.5) !important;
+	border-radius: 0px !important;
+	padding-left: 34px;
+}
+
+/* Home page */
+.Header__background-color{
+	background-color: var(--modspotify_main_bg) !important;
+}
