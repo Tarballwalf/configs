@@ -1,11 +1,11 @@
-/*Thinner scrollbar*/
+/* Remove Scrollbar */
 ::-webkit-scrollbar {
-	height: 6px !important;
+	height: 0px !important;
 	width: 0px !important;
 	background-color: transparent;
 }
 
-/*Spice up search input background*/
+/* Make search imput the same color as the other stuff */
 .SearchInput {
 	color: var(--modspotify_main_fg);
 }
