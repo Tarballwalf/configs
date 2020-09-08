@@ -192,14 +192,13 @@ Change text color in playlist
 	border-bottom: 0 !important;
 }
 
-
 /* [WINDOWS] Change Profile menu horizontal position */
 body.body-container--windows .content-top-bar__profile-menu-button .dropdown {
 	right: 190px !important;
 }
 
 body:not(.body-container--windows) .content-top-bar__profile-menu-button .dropdown {
-	right: 10px !important;
+	right: 5px !important;
 }
 
 /* Home page */
