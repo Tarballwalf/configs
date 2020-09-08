@@ -130,32 +130,28 @@ Change text color in playlist
 	opacity: 0.4!important;
 }
 
-.view-player .player-controls-container,
-.view-player .player-controls-container .controls {
-	overflow: visible !important;
+
+/* No circle around player play button */
+.button-play,
+.view-player .player-controls-container .controls .button-play.button-play:after {
+    box-shadow: 0px 0px!important;
 }
 
-.view-player .player-controls-container .controls .button-play{
-	height:50px !important;
-	border-radius:50px !important;
-	background-color: #0e0e0e !important;
-	box-shadow:0 0 0 0 !important;
-	width:50px !important;
-	overflow: visible !important;
-	box-shadow: 0 4px 15px rgba(0,0,0,0.2) !important;
-	transition:none 0.3s cubic-bezier(.3,0,.7,1);
+/* Makes play button gray */
+.view-player .player-controls-container .controls .button-play
+{
+    color: var(--modspotify_secondary_fg);
 }
 
-.view-player .player-controls-container .controls .button-play:before{
-	font-size:18px !important;
-	padding-left: 16px !important;
-	padding-top: 9px !important;
+/* Bigger font for play button */
+#player-button-play::before{
+    font-size: 25px !important;
 }
 
-.view-player .player-controls-container .controls .button-play:after {
-	box-shadow: unset !important;
+/* Centering play button */
+#player-button-play{
+    margin-left: -5px !important;
 }
-
 
 /*Hide cover image overlay*/
 .card-overlay {
@@ -238,8 +234,8 @@ body:not(.body-container--windows) .content-top-bar__profile-menu-button .dropdo
 
 .Button--style-green,
 .button.button-green, .button.button-white {
-	/* border-radius: 4px; */
-	color: var(--modspotify_main_fg) !important;
+	border-radius: 4px;
+	color: var(--modspotify_main_bg) !important;
 }
 
 .glue-page-header:not(.glue-page-header--album):not(.glue-page-header--playlist):not(.glue-page-header--artist):not(.glue-page-header--dailymix):not(.glue-page-header--user):not(.glue-page-header--show)
@@ -299,6 +295,7 @@ span.glue-page-header__title-text {
 }
 
 
+
 /*Force player bar to has fixed height*/
 .view-player {
 	height: var(--bar-height) !important;
@@ -337,4 +334,3 @@ span.glue-page-header__title-text {
 .view-player .now-playing-container .button-add {
 	color: var(--modspotify_main_fg) !important;
 }
-
