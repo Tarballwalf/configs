@@ -10,7 +10,7 @@
     "initialRows": 40,
     "profiles": {
       "defaults": {
-        "colorScheme": "One Half Dark",
+        "colorScheme": "Tango Dark",
         "fontFace": "Hasklug NF",
         "startingDirectory": "%USERPROFILE%",
         "snapOnInput": true,
