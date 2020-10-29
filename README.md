@@ -13,6 +13,6 @@ If you want you can use them I have no problem with that.
 If you have any question or if you want to contact me you can through:
 (Please tell me from where you came so I can know.)
 
-- Discord: Tarballlwalf#1986
+- Discord: Tarballlwalf#8899
 - Telegram: @Tarballwalf
-- Keybase: tarballwalf
+- Matrix: @tarballwalf:matrix.org
