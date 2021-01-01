@@ -5,14 +5,14 @@
                             /_/  \__,_/_/  /_.___/\__,_/_/_/ |__/|__/\__,_/_/_/                    
 
 
-This is the folder where i'll be keeping most of the confings for programs I use.
-Eighter Windows programs or Linux ones.
+This will be the folder where I'll be keeping most of the confings for programs I use.
+Eighter Windows or Linux.
 
-If you want you can use them I have no problem with that.
+If you can use these for yourself if you're willing to.
 
-If you have any question or if you want to contact me you can through:
-(Please tell me from where you came so I can know.)
+If you have any questions or want to contact me, you can through:
 
 - Discord: Tarballlwalf#8899
 - Telegram: @Tarballwalf
 - Matrix: @tarballwalf:matrix.org
+- https://trblwlf.tk/contact
