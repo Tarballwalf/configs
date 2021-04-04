@@ -15,3 +15,7 @@ With the reserved IPs:
 
 ### VPN Reserved:
 * 10.0.0.*
+
+### Other network:
+* 192.168.**5**.100 - 250
+* 192.168.**0**.1 being reserved for the internal connection between the 4G modem and the main router
