@@ -1,4 +1,0 @@
-:root {
-	--uwp-accent-color: #E95420; /* Accent color */
-	--uwp-accent-text: multiply; /* Accent color text */
-}
